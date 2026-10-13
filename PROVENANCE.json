@@ -1,0 +1,135 @@
+{
+  "collection": "networking-and-security-labs",
+  "prepared": "2026-10-12",
+  "attribution_policy": "Recovered student work can include course scaffolding and referenced tutorials. No blanket license or sole-authorship claim is made for those portions. Original attribution comments are retained.",
+  "files": [
+    {
+      "file": "sockets/tcp_client.py",
+      "source_filename": "tcp_client.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Loopback socket fundamentals",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Small local echo demonstration; syntax reviewed, no live server started.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "sockets/tcp_server.py",
+      "source_filename": "tcp_server.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Loopback socket fundamentals",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Small local echo demonstration; syntax reviewed, no live server started.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "sockets/udp_client.py",
+      "source_filename": "udp_client.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Loopback socket fundamentals",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Small local echo demonstration; syntax reviewed, no live server started.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "sockets/udp_server.py",
+      "source_filename": "udp_server.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Loopback socket fundamentals",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Small local echo demonstration; syntax reviewed, no live server started.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "drafts/tcp-timeout.py",
+      "source_filename": "tcp_timeout.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Socket timeout experiment",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Partial: timeout counter persists across connections and cleanup is not reached during the infinite accept loop.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "routing/airport-routing.py",
+      "source_filename": "goozen_assigment1_computer_networks.py",
+      "course": "CSCE A365 Computer Networks, Fall 2024",
+      "topic": "Threaded hub-and-spoke simulation",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Partial historical prototype; connection reuse and forwarding are unfinished.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments.",
+        "Applied portable local-only configuration and synthetic data changes documented in the topic README."
+      ]
+    },
+    {
+      "file": "systems/cpu-scheduling.py",
+      "source_filename": "cpu_scheduling.py",
+      "course": "CSCE A321 Operating Systems, Spring 2025",
+      "topic": "CPU scheduling simulation",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Historical interactive prototype. Feedback queue arrival and demotion logic require repair.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "cryptography/bloom-filter-block-propagation.py",
+      "source_filename": "bloom_filter_block_propagation.py",
+      "course": "CSCE A375 Cryptocurrency Technologies, Spring 2025",
+      "topic": "Bloom-filter block reconstruction",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Educational simulation using synthetic transaction identifiers.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments.",
+        "Applied portable local-only configuration and synthetic data changes documented in the topic README."
+      ]
+    },
+    {
+      "file": "cryptography/selfish-mining.py",
+      "source_filename": "selfish_mining.py",
+      "course": "CSCE A375 Cryptocurrency Technologies, Spring 2025",
+      "topic": "Selfish-mining Monte Carlo experiment",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Simplified legacy model; state carries between parameter runs and random sampling is not seeded. Results need validation.",
+      "preparation": [
+        "Preserved historical implementation and attribution comments."
+      ]
+    },
+    {
+      "file": "cryptography/toy-ciphers.ipynb",
+      "source_filename": "cipher-exercise.ipynb",
+      "course": "CSCE A465 Computer Network Security, Spring 2025",
+      "topic": "Vigenere-style cipher and XOR key wrapping",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Educational toy ciphers. Both wrapping functions use a symmetric key despite historical public/private parameter names.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Applied documented portable-data or synthetic-fixture edits; see topic README."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    }
+  ]
+}
