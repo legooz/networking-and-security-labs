@@ -1,3 +1,4 @@
+# Interactive UDP client for local datagram messaging.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import socket
 

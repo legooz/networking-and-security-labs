@@ -1,3 +1,4 @@
+# TCP loopback server that acknowledges received messages.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import socket
 

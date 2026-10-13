@@ -1,3 +1,4 @@
+# Threaded airport hub-and-spoke routing prototype.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 from pathlib import Path
 import csv
@@ -148,7 +149,7 @@ if __name__ == "__main__":
     airportType = sys.argv[1].upper()
     airport_code = sys.argv[2].upper()
 
-    # Change the CSV file path to your file location here:
+    # Load the synthetic passenger fixture next to this script.
     csv_file = Path(__file__).with_name("passengers.example.csv")
 
     if airportType == "HUB":

@@ -1,3 +1,4 @@
+# Monte Carlo experiment for simplified selfish-mining revenue.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import random
 

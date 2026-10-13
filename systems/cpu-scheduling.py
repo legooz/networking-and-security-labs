@@ -1,3 +1,4 @@
+# Interactive CPU-scheduling comparison: RR, SPN, SRT, HRRN, and feedback.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 processes = []
 

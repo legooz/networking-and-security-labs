@@ -1,3 +1,4 @@
+# TCP loopback server with a shared timeout counter (historical draft).
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import socket
 

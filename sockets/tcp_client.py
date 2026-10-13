@@ -1,3 +1,4 @@
+# Interactive TCP client for a loopback message server.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import socket
 

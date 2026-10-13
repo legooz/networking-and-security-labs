@@ -1,3 +1,4 @@
+# UDP loopback server that acknowledges received datagrams.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import socket
 

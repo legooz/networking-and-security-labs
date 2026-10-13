@@ -1,3 +1,4 @@
+# Bloom-filter membership and block-reconstruction simulation.
 # Recovered student coursework; see README.md and PROVENANCE.json for attribution and status.
 import hashlib
 from pathlib import Path
